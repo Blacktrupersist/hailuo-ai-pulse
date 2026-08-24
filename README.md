@@ -29,4 +29,4 @@ The goal is a tool that just works — no clutter, no bloat.
 
 **Step 2.** Unzip the contents into your target installation folder.
 
-**Step 3.** Execute the main program file to begin using the software.    
+**Step 3.** Execute the main program file to begin using the software.     
